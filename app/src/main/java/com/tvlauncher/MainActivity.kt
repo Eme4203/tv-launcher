@@ -56,7 +56,7 @@ class MainActivity : Activity() {
         list = findViewById(R.id.list)
         list.layoutManager = LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false)
         list.adapter = adapter
-        list.setHasFixedSize(true)
+        
     }
 
     override fun onStart() {

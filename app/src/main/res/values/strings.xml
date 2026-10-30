@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TV Launcher</string>
+    <string name="cannot_open">No se pudo abrir la aplicación</string>
+</resources>
